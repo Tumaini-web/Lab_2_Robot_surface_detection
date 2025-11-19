@@ -1,0 +1,7 @@
+data_load:
+  train_dataset: "data/raw/processed_(A+B)_data.xlsx"
+  test_dataset: "data/raw/processed_C_data.xlsx"
+
+data_split:
+  trainset_path: "data/processed/train.csv"
+  testset_path: "data/processed/test.csv"
